@@ -1,0 +1,15 @@
+500 500
+
+ambient 0.2
+
+object cube.asc 1.0 0.0 0.0 .7 .3 4
+
+light 1 .8 5.0 10.0 20.0
+
+background 0.0 0.5 0.3
+
+observer 3 3 3 0 0 0 0 .1 1000 15
+
+display
+
+end
